@@ -1,0 +1,4 @@
+name: test
+version: 1.0
+author: CrazyServerDev
+main: de.crazyserverdev.test.main
