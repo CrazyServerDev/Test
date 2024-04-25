@@ -7,7 +7,7 @@ public class main extends JavaPlugin{
 	
 	@Override
 	public void onEnable() {
-Bukkit.getConsoleSender().sendMessage("aktiv");
+			Bukkit.getConsoleSender().sendMessage("aktiv");
 	}
 
 }
