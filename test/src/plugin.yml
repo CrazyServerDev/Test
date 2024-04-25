@@ -1,4 +1,5 @@
 name: test
 version: 1.0
+api-version: 1.13
 author: CrazyServerDev
 main: de.crazyserverdev.test.main
